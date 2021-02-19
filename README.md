@@ -5,4 +5,5 @@ Repository of Jupyter notebooks for looking at and testing various modelling tec
 List of the notebooks contained in this repository.
 - [Conway's Game of Life](src/conways_game_of_life.ipynb) - notebook to create animations using 
   matplotlib for Conway's Game of Life ([wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)).
-
+- [Monte Carlo Simulations](src/monte_carlo_simulations.ipynb) - notebook containing various Monte
+  Carlo simulations ([wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method))
